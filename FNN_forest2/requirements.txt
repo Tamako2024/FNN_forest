@@ -1,0 +1,6 @@
+torch>=1.12.1+cu113
+matplotlib>=3.7.4
+pandas>=2.0.3
+numpy>=1.24.1
+tqdm>=4.66.1
+pyhdf>=0.11.3
